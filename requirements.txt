@@ -1,0 +1,19 @@
+# ==============================================================================
+# EEE1004: Neural Networks and Fuzzy Systems - Course Project Dependencies
+# Driver Drowsiness Alert System (Computer Vision + Mamdani Fuzzy Inference)
+# ==============================================================================
+
+# Core Computer Vision & Neural Landmark Extraction (Unit 1 & 2 / CO2)
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+
+# Numerical Processing & Vectorized Euclidean Distance Math
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Fuzzy Logic Controller & Inference Engine (Unit 4 & 5 / CO3 & CO4)
+scikit-fuzzy>=0.4.2
+networkx>=3.0
+
+# Offline Membership Function Plotting & 3D Control Surfaces
+matplotlib>=3.7.0
